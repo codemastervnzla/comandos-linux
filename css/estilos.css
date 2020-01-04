@@ -14,12 +14,16 @@ body{background: #DDDDDD;}
 
 h1,h3{font-family: Quantico !important;}
 
+h3{font-size:30px;}
+
 .text-center{text-align: center;}
 
 .text-uppercase{text-transform: uppercase;}
 
 main{
-    background: #fff;
-    width: 80%;
-    margin: 20px auto;
+    	background: #fff;
+    	width: 80%;
+    	margin: 20px auto;
+	padding: 20px;
+	border-radius: 5px;
 }
